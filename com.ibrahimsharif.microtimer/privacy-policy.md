@@ -34,7 +34,7 @@ By using this App, you signify your acceptance of this policy. If you disagree w
 
 If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact us at:
 
-Iridescent Developments
+Iridescent Developments <br/>
 Email: apps@ibrahimsharif.com
 
 
